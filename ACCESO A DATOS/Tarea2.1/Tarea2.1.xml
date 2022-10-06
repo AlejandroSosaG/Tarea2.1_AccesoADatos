@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Tarea>
+    <Ciudades>
+        <Ciudad>
+            <Nombre>Manila</Nombre>
+            <País idioma="Inglés">FERNANDEZ</País>
+            <Continente>Asia</Continente>
+        </Ciudad>
+        <Ciudad>
+            <Nombre>Kiev</Nombre>
+            <País idioma="Ucraniano">Ucrania</País>
+            <Continente>Europa</Continente>
+        </Ciudad>
+        <Ciudad>
+            <Nombre>La Habana</Nombre>
+            <País idioma="Español">Cuba</País>
+            <Continente>América</Continente>
+        </Ciudad>
+        <Ciudad>
+            <Nombre>El Cairo</Nombre>
+            <País idioma="Árabe">Egipto</País>
+            <Continente>África</Continente>
+        </Ciudad>
+    </Ciudades>
+    
+    <HechosHistóricos>
+        <Hecho Descripción="IBM da a conocer el PC">
+            <Fecha>
+                <Día>12</Día>
+                <Mes>8</Mes>
+                <Año>1981</Año>
+            </Fecha>
+        </Hecho>
+        <Hecho Descripción="Se funda Google">
+            <Fecha>
+                <Día>4</Día>
+                <Mes>9</Mes>
+                <Año>1998</Año>
+            </Fecha>
+        </Hecho>
+        <Hecho Descripción="Se funda Facebook">
+            <Fecha>
+                <Día>4</Día>
+                <Mes>2</Mes>
+                <Año>2004</Año>
+            </Fecha>
+        </Hecho>
+    </HechosHistóricos>
+</Tarea>
